@@ -16,7 +16,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * The total trips have been 247,584 in 2016 and 273,742 in 2017, for a total of 521,326.
 
-![Trips](/Images/RidershipGrowth.jpg)
+![Trips](RidershipGrowth.jpg)
 
 * By what percentage has total ridership grown? 
 
