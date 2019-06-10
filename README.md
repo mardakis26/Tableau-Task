@@ -16,15 +16,17 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * The total trips have been 247,584 in 2016 and 273,742 in 2017, for a total of 521,326.
 
-![Trips](RidershipGrowth.jpg)
+![Trips](Images/RidershipGrowth.jpg)
 
-* By what percentage has total ridership grown? 
+* Between 2016 and 2017, total ridership grew by 10.57%
 
-* How has the proportion of short-term customers and annual subscribers changed?
+* Subscribers have grown by almost 12% YoY, while the number of customers decreased by 8.5%, leading to speculation that more users are now becoming long-term rather than short-term.
 
-* What are the peak hours in which bikes are used during summer months? 
+![Users](Images/UserType.JPG)
 
-* What are the peak hours in which bikes are used during winter months?
+* The peak hours of usage during summer (June, July, and August) are 4 pm, 5 pm, and 7 am. Coincidentally, the peak hours in the winter (December, January, February) are also 4 pm, 5 pm, and 7 am.
+
+![Hours](Images/SummerWinterHours.jpg)
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
 
