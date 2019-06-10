@@ -16,7 +16,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * The total trips have been 247,584 in 2016 and 273,742 in 2017, for a total of 521,326.
 
-![Trips](Images/RidershipGrowth.jpg)
+![Trips](Images/RidershipGrowth.JPG)
 
 * Between 2016 and 2017, total ridership grew by 10.57%
 
@@ -26,15 +26,11 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * The peak hours of usage during summer (June, July, and August) are 4 pm, 5 pm, and 7 am. Coincidentally, the peak hours in the winter (December, January, February) are also 4 pm, 5 pm, and 7 am.
 
-![Hours](Images/SummerWinterHours.jpg)
+![Hours](Images/SummerWinterHours.JPG)
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+* The top 10 stations for starting a journey are all in Manhattan. This makes sense since most workers in Manhattan live elsewhere, and biking is another means of public transportation to get from Manhattan to the surrounding boroughs where most people live.
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
+![Top10Starting](Images/Top10Starting.JPG)
 
 * Today, what is the gender breakdown of active participants (Male v. Female)?
 
