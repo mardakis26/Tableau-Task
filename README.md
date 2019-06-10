@@ -14,7 +14,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  You may work with a timespan of your choosing.**
 
-* The total trips have been 247,584 in 2016 and 273,742 in 2017, for a total of 521,326
+* The total trips have been 247,584 in 2016 and 273,742 in 2017, for a total of 521,326.
+
 ![Trips](Images/RidershipGrowth.jpg)
 
 * By what percentage has total ridership grown? 
